@@ -1,0 +1,17 @@
+[
+build
+]
+  command = """
+    python -m ensurepip
+    python -m pip install --upgrade pip
+    pip install pipenv
+    pipenv install --deploy --system
+    # Add your build command here, e.g.:
+    # python your_build_script.py
+  """
+  publish = "build"  
+
+[
+build.environment
+]
+  PYTHON_VERSION = "3.8"  
