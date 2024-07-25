@@ -1,9 +1,7 @@
 # Phase 4 Code Challenge: Pizza Restaurants (Updated)
 
-<video width="320" height="240" controls>
-  <source src="Screen Recording 2024-07-23 122607.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe src="https://www.loom.com/share/2a7e1757db6741c490785d818fd29548?sid=2133e31f-5a64-441f-bdbd-68a7ed1cc0b3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 
 In this code challenge, you'll be working with a Pizza Restaurant domain.
 
