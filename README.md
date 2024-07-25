@@ -1,5 +1,10 @@
 # Phase 4 Code Challenge: Pizza Restaurants (Updated)
 
+<video width="320" height="240" controls>
+  <source src="Screen Recording 2024-07-23 122607.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 In this code challenge, you'll be working with a Pizza Restaurant domain.
 
 In this repo:

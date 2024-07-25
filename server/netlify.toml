@@ -8,10 +8,10 @@ build
     pipenv install --deploy --system
     # Add your build command here, e.g.:
     # python your_build_script.py
-  """
-  publish = "build"  
+    """
+  publish = "build"
 
 [
 build.environment
 ]
-  PYTHON_VERSION = "3.8"  
+  PYTHON_VERSION = "3.8"
